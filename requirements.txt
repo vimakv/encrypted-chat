@@ -1,0 +1,6 @@
+pycryptodome
+pillow
+bcrypt
+plyer
+sounddevice
+scipy
